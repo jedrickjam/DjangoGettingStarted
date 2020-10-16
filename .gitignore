@@ -1,0 +1,3 @@
+# Default ignored files
+/venv
+/meeting_planner/db.sqlite3
